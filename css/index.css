@@ -82,7 +82,7 @@ a {
 }
 
 .sparkle {
-  fill: #AAAAAA;
+  fill: #ff85a2;
   transition: all 800ms ease;
 }
 
@@ -102,10 +102,10 @@ a {
 }
 
 .btn:hover .text {
-  color: white;
+  color: #ff85a2;
 }
 
 .btn:hover .sparkle {
-  fill: white;
+  fill: #ff85a2;
   transform: scale(1.2);
 }
